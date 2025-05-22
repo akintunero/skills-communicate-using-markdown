@@ -45,13 +45,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ###### This is an `<h6>` header, which is the smallest
 ```
 
-# This is just a test
-## Then another test
-### This is the H3
-#### And the 4th 
-##### Then the 5th one 
-###### Then the final one 
-
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
