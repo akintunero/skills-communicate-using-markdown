@@ -10,3 +10,6 @@
 ```
 print("Hello world")
 ```
+- [ ] Starting out a new portdfolio
+- [x] Created a new one on cloudflare
+- [ ] Connecting github pages
