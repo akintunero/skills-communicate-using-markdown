@@ -1,4 +1,10 @@
-<header>
+# Welcome to My Project
+
+# This is a header
+
+# Communicate using Markdown
+
+_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
   <<< Author notes: Course header >>>
@@ -7,19 +13,12 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
-
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
-
-</header>
-
 <!--
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Add an image
 
 _Great job adding headers to the file :sparkles:_
 
